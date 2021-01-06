@@ -59,6 +59,13 @@ Notes: When I first saw this question the asker was adamant about the lettuce be
 
 Source: This is an in-joke from a local Discord, but it definitely fits the 'things most people don't think about' criteria.
 
+### Would you put soup into a square tupperware container?
+
+1. Yes.
+2. No! Soup should always go into a bowl or round container!
+
+[Source: This viral tweet.](https://twitter.com/chunkbardey/status/1346645407229747200)
+
 ## Other
 
 ### How many holes does a straw have?
