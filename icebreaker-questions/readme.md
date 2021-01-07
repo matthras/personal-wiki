@@ -66,6 +66,27 @@ Source: This is an in-joke from a local Discord, but it definitely fits the 'thi
 
 [Source: This viral tweet.](https://twitter.com/chunkbardey/status/1346645407229747200)
 
+### Orange Juice. Pulp or no pulp?
+
+1. Pulp.
+2. No pulp.
+
+Notes: This is a classic.
+
+### Mint chocolate. Yay or nay?
+
+1. Yay!
+2. Nay.
+
+Notes: Presumably less controversial, but some people dislike mint chocolate because it tastes like toothpaste for them. Sucks to be them, I guess. 🙃
+
+### Coriander/cilantro. Yay or nay?
+
+1. Yay!
+2. Nay.
+
+Notes: Some people dislike coriander/cilantro because there's a gene that makes it taste like soap for them.
+
 ## Other
 
 ### How many holes does a straw have?
@@ -86,6 +107,13 @@ Notes: Ask your respondents on how they'd define holes. Then ask them how many h
 6. You could never get me to try wearing socks in the shower.
 
 Notes: This is another in-joke. But some people enjoyed it, apparently.
+
+### Which one is more likely?
+
+1. Quite likely.
+2. Pretty likely.
+
+Source: [Andy Perfor's Twitter poll](https://twitter.com/AndyPerfors/status/1346691566501470210) where the US has 'quite' > 'pretty', but it's the opposite for British/Australians. 
 
 ## Would You Rather...
 
