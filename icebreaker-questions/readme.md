@@ -115,6 +115,20 @@ Notes: This is another in-joke. But some people enjoyed it, apparently.
 
 Source: [Andy Perfor's Twitter poll](https://twitter.com/AndyPerfors/status/1346691566501470210) where the US has 'quite' > 'pretty', but it's the opposite for British/Australians. 
 
+### Are zombies awake?
+
+1. Yes
+2. No
+
+Source: [Twitter Poll](https://twitter.com/Sheena2907/status/1329320806783053825)
+
+### How do you pronounce grass?
+
+1. Rhymes with 'ass'
+2. Rhymes with 'arse'
+
+Source: [Twitter Poll](https://twitter.com/Sheena2907/status/1329192719349145613)
+
 ## Would You Rather...
 
 A quick google search should give you plenty of 'Would You Rather' questions to choose from. The ones I've chosen below generally tend to be a choice between two slightly unwieldy/uncomfortable situations.
