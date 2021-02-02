@@ -33,6 +33,11 @@ Notes: The original food piece was 'fish and chips'. Can also replace with other
 
 Notes: Hot dog can be replaced by any of the options mentioned on this [Cube Rule website](https://cuberule.com/) (e.g. Subway sub, piece of chicken between two waffles) that lays out the origin of the meme and how it's developed from there.
 
+### What is the 'main' part of a sandwich?
+
+1. Filling
+2. Bread
+
 ### What do you call a long piece of boneless chicken, battered and fried?
 
 1. Chicken Fingers
@@ -113,7 +118,7 @@ Notes: This is another in-joke. But some people enjoyed it, apparently.
 1. Quite likely.
 2. Pretty likely.
 
-Source: [Andy Perfor's Twitter poll](https://twitter.com/AndyPerfors/status/1346691566501470210) where the US has 'quite' > 'pretty', but it's the opposite for British/Australians. 
+Source: [Andy Perfor's Twitter poll](https://twitter.com/AndyPerfors/status/1346691566501470210) where the US has 'quite' > 'pretty', but it's the opposite for British/Australians. Also see coloured chart on [Perceptions of Probability](https://blogs.sas.com/content/iml/2017/05/03/perceptions-of-probability.html)
 
 ### Are zombies awake?
 
@@ -128,6 +133,12 @@ Source: [Twitter Poll](https://twitter.com/Sheena2907/status/1329320806783053825
 2. Rhymes with 'arse'
 
 Source: [Twitter Poll](https://twitter.com/Sheena2907/status/1329192719349145613)
+
+### You die, and wake up in an otherwise-empty room with three buttons. You have no way of finding out what the buttons actually do. Which do you press?
+
+1. NEXT LEVEL
+2. SPECTATE
+3. RESTART
 
 ## Would You Rather...
 
